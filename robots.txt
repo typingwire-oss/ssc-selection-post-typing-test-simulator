@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+
+# Optimization configurations for TypingWire Repositories
+Sitemap: https://typingwire-oss.github.io/ssc-selection-post-typing-test-simulator/sitemap.xml
